@@ -5,6 +5,7 @@
     "href": "https://juliedg9.github.io/P3-Booki-Agence-de-Voyage/",
     "description": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS.",
     "imageUrl": "https://juliedg9.github.io/P3-Booki-Agence-de-Voyage/images/hebergements/aw-creative.jpg",
+    "alt": "Site d'agence de voyage avec html et css",
     "categories": [{ "title": "Html" }, { "title": "Css" }],
     "taches": [
       "Créer la page d'accueil d'une agence de voyage en utilisant HTML et CSS.",
@@ -24,6 +25,7 @@
     "href": "https://juliedg9.github.io/ProjectOhMyFood/",
     "description": "Améliorez l'interface d'un site mobile avec des animations CSS.",
     "imageUrl": "https://juliedg9.github.io/ProjectOhMyFood/images/restaurants/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg",
+    "alt": "Site de restauration avec des animations css",
     "categories": [{ "title": "Html" }, { "title": "Sass" }],
     "taches": [
       "Intégrer une maquette en mobile-first assurer une expérience utilisateur fluide.",
@@ -44,6 +46,7 @@
     "href": "https://github.com/JulieDG9/sophie-bluel",
     "description": "Créez une page web dynamique d'un architecte d'intérieur avec JavaScript.",
     "imageUrl": "/assets/images/sophieb.webp",
+    "alt": "Site d'architecte d'intérieur dynamique avec javascript",
     "categories": [
       { "title": "Html" },
       { "title": "Css" },
@@ -70,6 +73,7 @@
     "href": "https://github.com/JulieDG9/kasa",
     "description": "Créez une application web de location immobilière avec React.",
     "imageUrl": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+    "alt": "Application web de location immobilière avec React",
     "categories": [
       { "title": "Sass" },
       { "title": "JavaScript" },
@@ -98,6 +102,7 @@
     "href": "https://juliedg9.github.io/Nina-Carducci/",
     "description": "Optimisez le référencement d'un site d'un photographe.",
     "imageUrl": "/assets/images/ninaCarducci.webp",
+    "alt": "optimisation d'un site de photographe",
     "categories": [
       { "title": "Html" },
       { "title": "Css" },
@@ -125,6 +130,7 @@
     "href": "https://github.com/JulieDG9/P10_ArgentBankBis",
     "description": "Implémentez le front-end d'une application bancaire avec React.",
     "imageUrl": "/assets/images/argentBank.webp",
+    "alt": "Application bancaire avec Redux",
     "categories": [{ "title": "React" }],
     "taches": [
       "Développer le front-end de l'application bancaire en utilisant React.",
