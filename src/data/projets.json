@@ -67,6 +67,7 @@
   {
     "id": 4,
     "title": "Kasa - Location immobilière",
+    "href": "https://github.com/JulieDG9/kasa",
     "description": "Créez une application web de location immobilière avec React.",
     "imageUrl": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
     "categories": [
@@ -94,6 +95,7 @@
   {
     "id": 5,
     "title": "Nina Carducci, Photographe",
+    "href": "https://juliedg9.github.io/Nina-Carducci/",
     "description": "Optimisez le référencement d'un site d'un photographe.",
     "imageUrl": "/assets/images/ninaCarducci.webp",
     "categories": [
@@ -120,6 +122,7 @@
   {
     "id": 6,
     "title": "ArgentBank - Agence Bancaire",
+    "href": "https://github.com/JulieDG9/P10_ArgentBankBis",
     "description": "Implémentez le front-end d'une application bancaire avec React.",
     "imageUrl": "/assets/images/argentBank.webp",
     "categories": [{ "title": "React" }],

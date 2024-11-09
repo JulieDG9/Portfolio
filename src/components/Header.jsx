@@ -21,9 +21,9 @@ export default function Header() {
         className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8"
       >
         <a href="#" className="-m-1.5 p-1.5">
-          <h1 className="font-black text-xl bg-gradient-to-r from-fuchsia-500 to-yellow-400 bg-clip-text text-transparent">
+          <h2 className="font-black text-xl bg-gradient-to-r from-fuchsia-500 to-yellow-400 bg-clip-text text-transparent">
             JDG
-          </h1>
+          </h2>
         </a>
         <div className="flex lg:hidden">
           <button
@@ -40,7 +40,7 @@ export default function Header() {
             <a
               key={item.name}
               href={item.href}
-              className="text-sm/6 font-semibold text-gray-900"
+              className="text-base/6 font-semibold text-gray-900"
             >
               {item.name}
             </a>

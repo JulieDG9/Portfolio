@@ -1,6 +1,5 @@
 import Header from "./components/Header";
 import Banner from "./components/Banner";
-// import Hero from "./components/Hero";
 import Realisations from "./components/Realisations";
 import Parcours from "./components/Parcours";
 import Competences from "./components/Competences";
@@ -13,7 +12,6 @@ export default function App() {
       <Header />
       <Banner />
       <Parcours />
-      {/* <Hero /> */}
       <Realisations />
       <Competences />
       <Contact />
