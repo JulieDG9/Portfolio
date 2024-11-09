@@ -1,8 +1,13 @@
-import htmlLogo from "../assets/images/LogosCompetences/htmlLogo.svg";
-import cssLogo from "../assets/images/LogosCompetences/cssLogo.svg";
-import sassLogo from "../assets/images/LogosCompetences/sassLogo.svg";
-import jsLogo from "../assets/images/LogosCompetences/jsLogo.svg";
-import reactLogo from "../assets/images/LogosCompetences/reactLogo.svg";
+// import htmlLogo from "../assets/images/LogosCompetences/htmlLogo.svg";
+// import cssLogo from "../assets/images/LogosCompetences/cssLogo.svg";
+// import sassLogo from "../assets/images/LogosCompetences/sassLogo.svg";
+// import jsLogo from "../assets/images/LogosCompetences/jsLogo.svg";
+// import reactLogo from "../assets/images/LogosCompetences/reactLogo.svg";
+import htmlLogo from "/assets/images/LogosCompetences/htmlLogo.svg";
+import cssLogo from "/assets/images/LogosCompetences/cssLogo.svg";
+import sassLogo from "/assets/images/LogosCompetences/sassLogo.svg";
+import jsLogo from "/assets/images/LogosCompetences/jsLogo.svg";
+import reactLogo from "/assets/images/LogosCompetences/reactLogo.svg";
 
 export default function Competences() {
   return (
