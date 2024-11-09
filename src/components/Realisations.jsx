@@ -39,7 +39,7 @@ export default function Réalisations() {
               <div className="relative w-full">
                 <a href={projet.href}>
                   <img
-                    alt={projet.title}
+                    alt={projet.alt}
                     src={projet.imageUrl}
                     className="aspect-[16/9] w-full rounded-2xl bg-gray-100 object-cover sm:aspect-[2/1] lg:aspect-[3/2]"
                   />
