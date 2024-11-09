@@ -4,12 +4,6 @@ import sassLogo from "/assets/images/logos/sassLogo.svg";
 import jsLogo from "/assets/images/logos/jsLogo.svg";
 import reactLogo from "/assets/images/logos/reactLogo.svg";
 
-// import htmlLogo from "../assets/images/LogosCompetences/htmlLogo.svg";
-// import cssLogo from "../assets/images/LogosCompetences/cssLogo.svg";
-// import sassLogo from "../assets/images/LogosCompetences/sassLogo.svg";
-// import jsLogo from "../assets/images/LogosCompetences/jsLogo.svg";
-// import reactLogo from "../assets/images/LogosCompetences/reactLogo.svg";
-
 export default function Competences() {
   return (
     <div id="competences" className="bg-gray-100 py-24 sm:py-32">
