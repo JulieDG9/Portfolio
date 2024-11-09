@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "title": "Booki - Agence de voyage",
+    "href": "https://juliedg9.github.io/P3-Booki-Agence-de-Voyage/",
+    "description": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS.",
+    "imageUrl": "https://juliedg9.github.io/P3-Booki-Agence-de-Voyage/images/hebergements/aw-creative.jpg",
+    "categories": [{ "title": "Html" }, { "title": "Css" }],
+    "taches": [
+      "Créer la page d'accueil d'une agence de voyage en utilisant HTML et CSS.",
+      "Intégrer l'interface responsive du site.",
+      "Organiser les composants d'interface en respectant les spécifications des maquettes Figma."
+    ],
+    "outils": ["Figma", "Visual Studio Code"],
+    "objectifs": [
+      "Implémenter une interface responsive avec HTML et CSS.",
+      "Installer un environnement de développement front-end.",
+      "Intégrer du contenu conforme aux maquettes avec HTML et CSS."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Oh my food",
+    "href": "https://juliedg9.github.io/ProjectOhMyFood/",
+    "description": "Améliorez l'interface d'un site mobile avec des animations CSS.",
+    "imageUrl": "https://juliedg9.github.io/ProjectOhMyFood/images/restaurants/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg",
+    "categories": [{ "title": "Html" }, { "title": "Sass" }],
+    "taches": [
+      "Intégrer une maquette en mobile-first assurer une expérience utilisateur fluide.",
+      "Implémenter des animations CSS pour enrichir l'expérience utilisateur.",
+      "Utiliser Sass pour structurer et optimiser les styles CSS.",
+      "Versionner le projet avec Git et GitHub"
+    ],
+    "outils": ["Figma", "VS Code", "Sass", "Git", "GitHub"],
+    "objectifs": [
+      "Intégrer une maquette en mobile-first avec HTML et CSS.",
+      "Créer des animations CSS pour dynamiser l'interface utilisateur.",
+      "Utiliser Sass pour structurer et optimiser les styles CSS."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sophie Bluel - Architecte d'intérieur",
+    "href": "https://github.com/JulieDG9/sophie-bluel",
+    "description": "Créez une page web dynamique d'un architecte d'intérieur avec JavaScript.",
+    "imageUrl": "/assets/images/sophieb.webp",
+    "categories": [
+      { "title": "Html" },
+      { "title": "Css" },
+      { "title": "JavaScript" }
+    ],
+    "taches": [
+      "Développer la page de présentation des travaux de l'architecte en utilisant le HTML fourni.",
+      "Gérer les événements utilisateurs et manipuler le DOM avec JavaScript.",
+      "Créer une page de connexion pour l'administrateur et une modale pour uploader de nouveaux médias.",
+      "Communiquer avec une API pour gérer les données de manière dynamique."
+    ],
+    "outils": ["Figma", "Visual Studio Code", "Kanban sur Notion", "Swagger"],
+    "objectifs": [
+      "Maîtriser la gestion des événements utilisateur avec JavaScript.",
+      "Manipuler les éléments du DOM pour une interface interactive.",
+      "Utiliser les formulaires pour récupérer les données utilisateur.",
+      "Communiquer avec une API pour intégrer des fonctionnalités dynamiques.",
+      "Gérer le versionnage de projet avec GitHub."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kasa - Location immobilière",
+    "description": "Créez une application web de location immobilière avec React.",
+    "imageUrl": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+    "categories": [
+      { "title": "Sass" },
+      { "title": "JavaScript" },
+      { "title": "React" }
+    ],
+    "taches": [
+      "Initialiser le projet avec Vite pour une configuration rapide.",
+      "Implémenter des composants React pour structurer l'interface de l'application.",
+      "Utiliser React Router pour gérer la navigation entre les pages.",
+      "Afficher des données simulées extraites d'un fichier JSON.",
+      "Intégrer des animations CSS pour améliorer l'expérience utilisateur."
+    ],
+    "outils": ["React", "React Router", "Vite", "Node.js", "Sass"],
+    "objectifs": [
+      "Initialiser une application front-end avec Vite pour React.",
+      "Configurer le routage avec React Router pour la navigation entre pages.",
+      "Créer des composants réutilisables avec React.",
+      "Mettre en œuvre des animations CSS et gérer les styles avec Sass.",
+      "Travailler avec des données JSON pour simuler un backend."
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Nina Carducci, Photographe",
+    "description": "Optimisez le référencement d'un site d'un photographe.",
+    "imageUrl": "/assets/images/ninaCarducci.webp",
+    "categories": [
+      { "title": "Html" },
+      { "title": "Css" },
+      { "title": "Optimisation" }
+    ],
+    "taches": [
+      "Analyser les problèmes de chargement et de référencement du site à l'aide d'outils comme Lighthouse et Wave.",
+      "Proposer des améliorations pour la vitesse de chargement, la structure du code et l'accessibilité.",
+      "Appliquer les changements et améliorer la performance du site en modifiant le code.",
+      "Tester l'impact des modifications sur le référencement et l'accessibilité.",
+      "Réaliser un rapport complet avec captures d'écran avant et après les modifications, expliquant les changements et leur impact."
+    ],
+    "outils": ["Lighthouse", "Wave", "Google Analytics", "Visual Studio Code"],
+    "objectifs": [
+      "Optimiser la performance d'un site web pour améliorer la vitesse de chargement.",
+      "Appliquer des bonnes pratiques SEO pour améliorer la visibilité sur les moteurs de recherche.",
+      "Améliorer l'accessibilité d'un site web pour tous les utilisateurs.",
+      "Utiliser des outils d'audit de performance pour analyser et optimiser un site.",
+      "Réaliser un rapport détaillé sur les améliorations effectuées et leur impact."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "ArgentBank - Agence Bancaire",
+    "description": "Implémentez le front-end d'une application bancaire avec React.",
+    "imageUrl": "/assets/images/argentBank.webp",
+    "categories": [{ "title": "React" }],
+    "taches": [
+      "Développer le front-end de l'application bancaire en utilisant React.",
+      "Implémenter Redux pour gérer l'état global de l'application.",
+      "Écrire des appels API REST pour récupérer et afficher les données du back-end.",
+      "Créer un tableau de bord responsive et dynamique pour les utilisateurs.",
+      "Configurer les routes API pour assurer une communication fluide entre le client et le serveur.",
+      "Utiliser Swagger pour documenter les routes de l'API et les interactions des transactions.",
+      "Tester l'intégration du front-end avec le back-end pour assurer une bonne communication des données."
+    ],
+    "outils": ["React", "Redux", "Swagger", "Visual Studio Code"],
+    "objectifs": [
+      "Développer une application web dynamique avec React.",
+      "Gérer l'état global d'une application avec Redux.",
+      "Réaliser des appels API REST pour connecter le front-end au back-end.",
+      "Documenter et définir les points d'accès de l'API avec Swagger.",
+      "Créer une interface utilisateur responsive et fonctionnelle pour des applications complexes.",
+      "Comprendre l'architecture client-serveur et la gestion des données en temps réel."
+    ]
+  }
+]
